@@ -1,0 +1,9 @@
+#
+# system.prop for xb
+#
+
+persist.sys.country=CN
+persist.sys.language=zh
+persist.sys.timezone=Asia/Shanghai
+#qemu.hw.mainkeys=0
+#ro.sf.hwrotation=270
