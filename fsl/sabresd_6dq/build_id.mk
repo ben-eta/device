@@ -18,6 +18,6 @@
 # (like "CRB01").  It must be a single word, and is
 # capitalized by convention.
 
-export BUILD_ID=XBKJ
+export BUILD_ID=ZLHX
 #export CUSTOM_NAME=sudiyi-android_arm-userdebug-4.4.2
 export CUSTOM_NAME=sudiyi-android_arm-release-4.4.2
