@@ -4,6 +4,8 @@
 	checkpath="/cache/update.zip.checksum"
 
 	getevent &
+	ds18b20 &
+
 	sleep 1
 	exit 1
 
