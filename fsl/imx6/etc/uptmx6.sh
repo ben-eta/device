@@ -7,7 +7,7 @@
 	ds18b20 &
 
 	sleep 1
-	exit 1
+	#exit 1
 
 
 	for i in 1 2  
