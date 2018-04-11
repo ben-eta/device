@@ -34,6 +34,8 @@
 			
 			if [ -f "$dst" ]; then
 				echo "ota update ----"
+				busybox rm -rf /data/*
+				#busybox rm -rf /data/system.notfirstrun
 				busybox md5sum /cache/update.zip > /cache/update.zip.checksum
 				echo "--update_package=$dst" > /cache/recovery/command
 				sync
